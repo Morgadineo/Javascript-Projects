@@ -1,2 +1,2 @@
 # Javascript-Projects
-Repository to save my Javascript projects.
+Repository to save my Javascript small projects.
